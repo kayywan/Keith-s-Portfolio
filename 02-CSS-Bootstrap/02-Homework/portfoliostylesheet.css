@@ -10,16 +10,26 @@ h1{
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 900;
 }
-
-.copy1 {
-    margin: 75%;
+a:hover {
+    text-decoration: none;
 }
+h4 {
+    text-align: center;
+
+}
+
+p {
+    text-align: justify;
+    margin-top: 10px;
+    max-width: 75%;
+}
+
 
 .container{
     margin-top: 40px;
 }
 footer{
-position: absolute;   
+position: absolute;
 }
 
 footer h4 {
